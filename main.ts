@@ -12,5 +12,5 @@ basic.forever(function () {
     strip.showRainbow(1, 360)
     strip.show()
     basic.pause(500)
-    strip.shift(1)
+    strip.rotate(1)
 })
